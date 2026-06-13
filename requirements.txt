@@ -6,3 +6,4 @@ opencv-python==4.12.0.88
 Pillow==11.3.0
 tensorflow==2.19.0
 gdown
+matplotlib
