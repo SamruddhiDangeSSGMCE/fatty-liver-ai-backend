@@ -1,0 +1,7 @@
+venv/
+uploads/
+gradcam_outputs/
+models/
+__pycache__/
+
+*.pyc
